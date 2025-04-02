@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  pulumi-yummy-restaurant:errorDocument: error.html
+  pulumi-yummy-restaurant:indexDocument: index.html
+  pulumi-yummy-restaurant:path: ./www
